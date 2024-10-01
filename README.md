@@ -66,9 +66,11 @@ THE EASIEST MANUAL EVER:
 - **Button up**: Will increase the distance by 0.01. If hold, it will keep increasing, faster and faster after some seconds. 
 - **Button down**: Will decrease the distance by 0.01. If hold, it will keep decreasing, faster after some seconds, but not as fast as increasing. This is by desig.
 - **Both bottons**: A reset message with a countdown will appear, hold on both for 10 seconds, and the distance will be set to 0.00 
-<br>
-<br>
+
+
+
 *NOTE: Course degrees, like speed, are only displayed when moving.*
+<br>
 <br>
 
 ![Prototype](img/prototype.JPG)
