@@ -14,7 +14,7 @@ In long: We'll use the precision of GPS satellites to provide real-time odometry
 
 ![Roadbook](https://c8.alamy.com/comp/2F3BXC4/ambiance-roadbook-during-stage-10-of-the-dakar-2020-between-haradh-and-shubaytah-608-km-ss-534-km-in-saudi-arabia-on-january-15-2020-photo-francois-flamand-dppi-2F3BXC4.jpg)
 
-#### How it actually looks
+#### How it actually looks (after field testing it in a 389km rally event)
 ![My Roadbook](img/my-roadbook.JPG)
 
 ### The Roadbook
